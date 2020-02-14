@@ -17,7 +17,7 @@ public class Main  {
 		System.out.println();
     aname.setEncapsulation("LALA");
     System.out.println(aname.getEncapsulation());
-
+System.out.println("second commit")
     }
 
 
